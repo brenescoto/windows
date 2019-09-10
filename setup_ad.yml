@@ -1,0 +1,4 @@
+- hosts: windows
+  become: yes
+  roles:
+  - win_ad_install

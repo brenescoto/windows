@@ -1,0 +1,6 @@
+---
+# vars file for roles/win_ad_install
+#ad_domain_name: ad1.d467.example.opentlc.com
+#admin_user: admin@{{ ad_domain_name}}
+#safe_password: jVMijRwLbI02gFCo2xkjlZ9lxEA7bm7zgg==
+
